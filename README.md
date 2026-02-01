@@ -4,7 +4,7 @@
 
 **AniViewJet** — это приложение для просмотра аниме на Android TV.
 
-tg канал для связи - https://t.me/+i2hlqz8HXu5jNGMy
+tg канал для связи - https://t.me/aniView_app
 
 ## ⚠️ Условия использования
 
