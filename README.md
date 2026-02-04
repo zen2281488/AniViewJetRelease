@@ -20,8 +20,6 @@
 
 ## 📸 Скриншоты
 
-> Прокрутите вправо, чтобы увидеть больше изображений
-
 <table>
   <tr>
     <td valign="top" width="33%"><img src="https://github.com/user-attachments/assets/799f41db-bd39-4ed0-8cf1-98196b45e735" alt="Main Screen" style="width:100%"></td>
