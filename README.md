@@ -5,8 +5,6 @@
   <img alt="AniView Jet" src="https://img.shields.io/static/v1.svg?label=AniView&message=Jet&color=111827&labelColor=111827&style=for-the-badge&logo=android&logoColor=white" style="width: 100%; height: auto;">
 </p>
 
-
-# 📺 AniViewJet
 ### Легковесный клиент для просмотра аниме на Android TV
 
 [![Release](https://img.shields.io/github/v/release/zen2281488/AniViewJetRelease?style=for-the-badge&color=blueviolet&label=ВЕРСИЯ)](https://github.com/zen2281488/AniViewJetRelease/releases)
