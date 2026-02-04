@@ -1,5 +1,11 @@
 <div align="center">
 
+
+<p align="center">
+  <img alt="AniView Jet" src="https://img.shields.io/static/v1.svg?label=AniView&message=Jet&color=111827&labelColor=111827&style=for-the-badge&logo=android&logoColor=white" style="width: 100%; height: auto;">
+</p>
+
+
 # 📺 AniViewJet
 ### Легковесный клиент для просмотра аниме на Android TV
 
